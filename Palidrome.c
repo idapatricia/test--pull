@@ -18,12 +18,14 @@
          if (s == 0)
         //if ((strcmp(isPalindrome, ReversPalindrome)) == 0 ) // if it's equal to 0, it's a palidrome but if it isn't...welp it's not one
             {
-            printf(" you got yourself a palidrom");
+            printf(" c'est mon code");
             }
         else
             {
-            printf(" not a palidrome");
+            printf(" get out");
             }
         
 
     }
+
+
